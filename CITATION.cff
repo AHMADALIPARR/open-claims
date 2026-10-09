@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Open Claims
+message: Claim register for the DMZ/F2 program. Not a proof of the Riemann hypothesis.
+version: 1.0.0
+date-released: 2026-10-08
+license: Apache-2.0
+url: https://github.com/AHMADALIPARR/open-claims
+repository-code: https://github.com/AHMADALIPARR/open-claims
+authors:
+  - family-names: Parr
+    given-names: Ahmad Ali
+keywords:
+  - riemann-hypothesis
+  - open-problem
+  - number-theory
+  - lean
+  - formal-methods

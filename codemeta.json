@@ -1,0 +1,11 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Open Claims",
+  "version": "1.0.0",
+  "description": "Open claims of the DMZ/F2 program. Not a proof of the Riemann hypothesis.",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "codeRepository": "https://github.com/AHMADALIPARR/open-claims",
+  "datePublished": "2026-10-08",
+  "keywords": ["riemann-hypothesis", "open-problem", "number-theory", "lean", "formal-methods", "dmz", "finite-fields"]
+}
